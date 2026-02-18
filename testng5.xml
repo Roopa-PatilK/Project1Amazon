@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+ 
+    <classes>
+      
+     
+      <class name="amazonmavenpackage.AmazonMavenProject.Testcase11_CheckoutProcess"/>
+      <class name="amazonmavenpackage.AmazonMavenProject.TestCase12_SelectEachPaymentMethod"/>
+      <class name="amazonmavenpackage.AmazonMavenProject.TestCase5_SearchProduct"/>
+      <class name="amazonmavenpackage.AmazonMavenProject.TestCase4_EditProfile"/>
+      <class name="amazonmavenpackage.AmazonMavenProject.TestCase7_ProductDetailPage"/>
+      <class name="amazonmavenpackage.AmazonMavenProject.TestCase15_CartPageWithoutLogin"/>
+      <class name="amazonmavenpackage.AmazonMavenProject.TestCase14_FiveStarRating"/>
+      <class name="amazonmavenpackage.AmazonMavenProject.TestCase10_UpdateItemQuantities"/>
+      <class name="amazonmavenpackage.AmazonMavenProject.TestCase2_LoginWithCorrectCredentials"/>
+      <class name="amazonmavenpackage.AmazonMavenProject.TestCase6_Filters"/>
+      <class name="amazonmavenpackage.AmazonMavenProject.TestCase9_ItemsAddToshoppingcart"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
