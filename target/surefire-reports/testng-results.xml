@@ -17,16 +17,16 @@
       <![CDATA[Test case passed]]>
     </line>
   </reporter-output>
-  <suite started-at="2026-02-18T16:45:17 IST" name="Suite" finished-at="2026-02-18T16:46:22 IST" duration-ms="65178">
+  <suite started-at="2026-02-19T15:27:10 IST" name="Suite" finished-at="2026-02-19T15:28:15 IST" duration-ms="64933">
     <groups>
     </groups>
-    <test started-at="2026-02-18T16:45:17 IST" name="Test" finished-at="2026-02-18T16:46:22 IST" duration-ms="65178">
+    <test started-at="2026-02-19T15:27:10 IST" name="Test" finished-at="2026-02-19T15:28:15 IST" duration-ms="64933">
       <class name="amazonmavenpackage.AmazonMavenProject.TestCase7_ProductDetailPage">
-        <test-method is-config="true" signature="Launch()[pri:0, instance:amazonmavenpackage.AmazonMavenProject.TestCase7_ProductDetailPage@1aa7ecca]" started-at="2026-02-18T16:45:41 IST" name="Launch" finished-at="2026-02-18T16:45:43 IST" duration-ms="2239" status="PASS">
+        <test-method is-config="true" signature="Launch()[pri:0, instance:amazonmavenpackage.AmazonMavenProject.TestCase7_ProductDetailPage@1aa7ecca]" started-at="2026-02-19T15:27:35 IST" name="Launch" finished-at="2026-02-19T15:27:37 IST" duration-ms="2347" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Launch -->
-        <test-method signature="DetailPage()[pri:0, instance:amazonmavenpackage.AmazonMavenProject.TestCase7_ProductDetailPage@1aa7ecca]" started-at="2026-02-18T16:45:43 IST" name="DetailPage" finished-at="2026-02-18T16:46:22 IST" duration-ms="38983" status="PASS">
+        <test-method signature="DetailPage()[pri:0, instance:amazonmavenpackage.AmazonMavenProject.TestCase7_ProductDetailPage@1aa7ecca]" started-at="2026-02-19T15:27:37 IST" name="DetailPage" finished-at="2026-02-19T15:28:15 IST" duration-ms="37467" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Product price is displaying]]>
@@ -44,11 +44,11 @@
         </test-method> <!-- DetailPage -->
       </class> <!-- amazonmavenpackage.AmazonMavenProject.TestCase7_ProductDetailPage -->
       <class name="amazonmavenpackage.AmazonMavenProject.TestCase5_SearchProduct">
-        <test-method is-config="true" signature="Launch()[pri:0, instance:amazonmavenpackage.AmazonMavenProject.TestCase5_SearchProduct@55b7a4e0]" started-at="2026-02-18T16:45:17 IST" name="Launch" finished-at="2026-02-18T16:45:19 IST" duration-ms="2451" status="PASS">
+        <test-method is-config="true" signature="Launch()[pri:0, instance:amazonmavenpackage.AmazonMavenProject.TestCase5_SearchProduct@55b7a4e0]" started-at="2026-02-19T15:27:10 IST" name="Launch" finished-at="2026-02-19T15:27:13 IST" duration-ms="3044" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Launch -->
-        <test-method signature="SearchingProduct()[pri:0, instance:amazonmavenpackage.AmazonMavenProject.TestCase5_SearchProduct@55b7a4e0]" started-at="2026-02-18T16:45:19 IST" name="SearchingProduct" finished-at="2026-02-18T16:45:40 IST" duration-ms="20668" status="PASS">
+        <test-method signature="SearchingProduct()[pri:0, instance:amazonmavenpackage.AmazonMavenProject.TestCase5_SearchProduct@55b7a4e0]" started-at="2026-02-19T15:27:13 IST" name="SearchingProduct" finished-at="2026-02-19T15:27:34 IST" duration-ms="21142" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Test case passed]]>
